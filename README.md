@@ -1,4 +1,3 @@
-# Names: HAKIZIMANA MARTIN Armand
 
 # Student Performance Prediction System
 
